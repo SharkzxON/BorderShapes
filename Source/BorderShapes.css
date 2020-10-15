@@ -42,6 +42,7 @@ button,
 .button-3HqqDX,
 .button-Jt-tIg,
 .bd-button,
+#bd-pub-button,
 .bd-addon-list .bd-card-footer button,
 #bd-settings-sidebar .ui-tab-bar-item,
 #bd-settingspane-container .bd-pfbtn,
@@ -66,7 +67,8 @@ button,
    mask: none;
    border-radius: var(--borders-buttons-1);
 }
-.button-1ZiXG9:hover {
+.button-1ZiXG9:hover,
+.passthrough-1c2ewQ {
    border-radius: 0px;
 }
 .wrapper-2aW0bm :first-child {
@@ -90,9 +92,6 @@ button,
 }
 .item-3T2z1R:last-child {
    border-radius: 0 var(--borders-buttons-2) var(--borders-buttons-2) 0;
-}
-.passthroughSelected-1Eq0Kl {
-   border-radius: 0px;
 }
 .closeButton-1tv5uR,
 .wrapper-129saQ,
@@ -508,6 +507,9 @@ button,
 
 .cardPrimary-1Hv-to,
 .cardPrimaryEditable-3KtE4g,
+.background-1QDuV2,
+.fieldList-21DyL8,
+.accountList-33MS45,
 .authedApp-mj2Hmd,
 .connection-1fbD7X,
 .connectedAccount-36nQx7,
@@ -592,7 +594,8 @@ button,
 .content-s2SEQO ul li:before,
 .featureIcon-3p1TC_,
 .tier-2c9-hT,
-.textBadge-1iylP6 {
+.textBadge-1iylP6,
+.avatarUploaderIndicator-2G-aIZ {
    border-radius: var(--borders-icons-small) !important;
 }
 
