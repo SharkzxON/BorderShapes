@@ -32,7 +32,7 @@ You need **BetterDiscord** if you want use this themes:
 
 **BetterDiscord:** [Installation Guide](https://0x71.cc/bd/guide/#install)
 
-1. [Click](https://betterdiscord.net/ghdl?id=3403) here to download theme
+1. Click [here](https://betterdiscord.net/ghdl?id=3403) to download theme
 2. Go to Discord
 3. Click **User Settings** 
 4. Scroll to **Themes** and open it
