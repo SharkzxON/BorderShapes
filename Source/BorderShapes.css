@@ -274,6 +274,14 @@ button,
    border-radius: 0 var(--borders-modals) var(--borders-modals) 0;
 }
 
+/*------------------------------*/
+/*-----{Users border shape}-----*/
+/*------------------------------*/
+
+.layout-2DM8Md {
+   border-radius: var(--borders-users);
+}
+
 /*--------------------------------*/
 /*-----{Servers border shape}-----*/
 /*--------------------------------*/
@@ -317,7 +325,12 @@ button,
 
 .avatar-1BDn8e,
 .avatar-3elDyV,
+.avatar-3bWpYy,
 .toast .toast-avatar {
+   border-radius: var(--borders-avatars-small);
+}
+.avatarContainerMasked-PIJ-3L foreignObject {
+   mask: none;
    border-radius: var(--borders-avatars-small);
 }
 .wrapper-3t9DeA svg:not(:root) {
