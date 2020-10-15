@@ -32,14 +32,13 @@ You need **BetterDiscord** if you want use this themes:
 
 **BetterDiscord:** [Installation Guide](https://0x71.cc/bd/guide/#install)
 
-1. Download archive and open it
-2. Find **BorderShapes.theme.css** file
-3. Go to Discord
-4. Click **User Settings** 
-5. Scroll to **Themes** and open it
-6. Click **Open Theme Folder**
-7. Move **BorderShapes.theme.css** in themes folder
-8. Apply theme in Discord
+1. [Click](https://betterdiscord.net/ghdl?id=3403) here to download theme
+2. Go to Discord
+3. Click **User Settings** 
+4. Scroll to **Themes** and open it
+5. Click **Open Theme Folder**
+6. Move **BorderShapes.theme.css** in themes folder
+7. Apply theme in Discord
 
 # Support
 
