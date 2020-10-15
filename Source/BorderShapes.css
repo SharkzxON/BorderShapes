@@ -509,6 +509,7 @@ button,
 .cardPrimaryEditable-3KtE4g,
 .background-1QDuV2,
 .fieldList-21DyL8,
+.wrapper-35wsBm,
 .accountList-33MS45,
 .authedApp-mj2Hmd,
 .connection-1fbD7X,
@@ -584,8 +585,7 @@ button,
 .assetsLargeImage-eYwpTX,
 .spinner-2OWD4A,
 .spinner-3lb-NU,
-.wrapper-pZmgj4a,
-.emptyChannelIcon-cc932w {
+.wrapper-pZmgj4a {
    border-radius: var(--borders-icons-large);
 }
 .assetsSmallImage-3_3Bzj,
