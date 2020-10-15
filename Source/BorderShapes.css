@@ -54,7 +54,7 @@ button,
 #EditUploadsToolbar .tool,
 .header-2-Imhb .tab-ck0077,
 #permissions-modal-wrapper .role-item {
-   border-radius: var(--borders-buttons-1);
+   border-radius: var(--borders-buttons-1) !important;
 }
 .newMessagesBar-265mhP,
 .container-2x5lvQ section {
