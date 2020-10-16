@@ -289,10 +289,12 @@ button,
    mask: none;
    border-radius: var(--borders-servers);
 }
+.folderIconWrapper-226oVY,
 .avatarUploaderInner-3UNxY3,
 .iconSizeMedium-2OqPjI,
 .iconActiveLarge-2nzn9z,
-.iconActiveMedium-1UaEIR {
+.iconActiveMedium-1UaEIR,
+.iconInactive-98JN5i {
    border-radius: var(--borders-servers);
 }
 .guildIcon-3W0pfo foreignObject {
@@ -325,6 +327,7 @@ button,
 .avatar-1BDn8e,
 .avatar-3elDyV,
 .avatar-3bWpYy,
+.appAvatar-3bgkQ9,
 .toast .toast-avatar {
    border-radius: var(--borders-avatars-small);
 }
