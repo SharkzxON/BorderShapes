@@ -4,12 +4,6 @@
 
 Custom border shapes for elements.
 
-# Credits
-
-> **RadialStatus** by **[Gibbu](https://github.com/Gibbu)**
-
-Changes the status icons to wrap around the avatar.
-
 # Features
 
 1. Highly customizable.
@@ -28,9 +22,7 @@ More custom borders for elements in theme.
 
 # Setup
 
-You need **BetterDiscord** if you want use this themes:
-
-**BetterDiscord:** [Installation Guide](https://0x71.cc/bd/guide/#install)
+**On BetterDiscord:**
 
 1. Click [here](https://betterdiscord.net/ghdl?id=3403) to download theme
 2. Go to Discord
@@ -39,6 +31,22 @@ You need **BetterDiscord** if you want use this themes:
 5. Click **Open Theme Folder**
 6. Move **BorderShapes.theme.css** in themes folder
 7. Apply theme in Discord
+
+**On Powercord:**
+
+1. Clone this repository.
+2. Go to Discord
+3. Click **User Settings** 
+4. Scroll to **Themes** and open it
+5. Click on three dots and select **Open themes folder**
+6. Move folder **BorderShapes-master** in themes folder
+7. Restart Powercord
+
+# Credits
+
+> **RadialStatus** by **[Gibbu](https://github.com/Gibbu)**
+
+Changes the status icons to wrap around the avatar.
 
 # Support
 
