@@ -327,6 +327,7 @@ button,
 .avatar-1BDn8e,
 .avatar-3elDyV,
 .avatar-3bWpYy,
+.avatar-2daVqv,
 .appAvatar-3bgkQ9,
 .toast .toast-avatar {
    border-radius: var(--borders-avatars-small);
@@ -487,6 +488,9 @@ button,
 .wrapper-3t9DeA rect[fill="#747f8d"], .wrapper-3t9DeA rect[mask*=offline], .wrapper-3t9DeA rect[fill=NaN] {
    stroke: #747f8d;
 }
+.wrapper-3t9DeA rect[mask*=mobile] {
+   stroke: #43b5b5;
+}
 
 /*--------------------------------*/
 /*-----{Sidebar border shape}-----*/
@@ -539,6 +543,7 @@ button,
 .overlayTitle-8IcS01,
 .settingCard-3w2mVL,
 .emptyCard-1RJw8n,
+.optionContainer-15srkc,
 .bd-addon-list .bd-addon-card {
    border-radius: var(--borders-banners-1);
 }
@@ -591,6 +596,7 @@ button,
 .wrapper-pZmgj4a {
    border-radius: var(--borders-icons-large);
 }
+.blob-2w7iIK,
 .assetsSmallImage-3_3Bzj,
 .small-xOVx-r,
 .medium-2wqF9d,
