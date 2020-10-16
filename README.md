@@ -4,7 +4,7 @@
 
 Custom border shapes for elements.
 
-# Other themes
+# Credits
 
 > **RadialStatus** by **[Gibbu](https://github.com/Gibbu)**
 
